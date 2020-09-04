@@ -1,4 +1,4 @@
-# DSA-Sum-Operation-On-Array-
+# DSA-Some-Operation-On-Array-
 This code is Data structure and Algorithm. 
 you can learn how  can Array is implemented 
 this are sum operations like :-
